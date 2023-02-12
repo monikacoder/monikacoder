@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 
 -------
-<h3 align="left"><b>hammer_and_wrench: Languages and Tools :</b></h3>
+### :hammer_and_wrench: Languages and Tools :
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" **alt="Java" width="50" height="50"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="50" height="50"/>
