@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about the Python or Java questions. 
 - 📫 How to reach me:  <a href="https://linkedin.com/in/monika-nohwar-a4171948" target="blank">     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </a>
 
-- ⚡ Fun fact: I started my carrer in 2012 in the *Fashion Designing* field and I have played the role of *Visual Merchandiser* for many years. I have designed the stunning retail spaces for various fashion outlets in India and UK. 
+- ⚡ 
 
 
 -------
